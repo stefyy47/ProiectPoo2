@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1526600688 source:d:\probleme\pooproiect2\main.cpp
+	"Varza.h"
+	"Faina.h"
+	"Bere.h"
+	"Vin.h"
+	"Jucarii.h"
+	"Cartofi.h"
+	<exception>
+	<typeinfo>
+
+1526156069 source:d:\probleme\pooproiect2\produs.cpp
+
+1526519354 d:\probleme\pooproiect2\produs.h
+	<iostream>
+
+1526591328 source:d:\probleme\pooproiect2\varza.cpp
+	"Varza.h"
+
+1526594477 d:\probleme\pooproiect2\varza.h
+	"Produs.h"
+
+1526595164 source:d:\probleme\pooproiect2\faina.cpp
+	"Faina.h"
+
+1526594428 d:\probleme\pooproiect2\faina.h
+	"Produs.h"
+
+1526598248 source:d:\probleme\pooproiect2\bere.cpp
+	"Bere.h"
+
+1526594477 d:\probleme\pooproiect2\bere.h
+	<string>
+	"Produs.h"
+
+1526520383 source:d:\probleme\pooproiect2\cartofi.cpp
+	"Cartofi.h"
+
+1526520494 source:d:\probleme\pooproiect2\jucarii.cpp
+	"Jucarii.h"
+
+1526243670 source:d:\probleme\pooproiect2\vin.cpp
+
+1526594477 d:\probleme\pooproiect2\cartofi.h
+	<string>
+	"Produs.h"
+
+1526594477 d:\probleme\pooproiect2\jucarii.h
+	"Produs.h"
+	<string>
+
+1526594477 d:\probleme\pooproiect2\vin.h
+	"Produs.h"
+	<string>
+
